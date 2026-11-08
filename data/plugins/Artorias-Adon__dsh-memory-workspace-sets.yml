@@ -1,0 +1,6 @@
+url: https://github.com/Artorias-Adon/dsh-memory-workspace-sets
+name: Artorias-Adon/dsh-memory-workspace-sets
+category: memory
+description:
+  en: 'Per-workspace reusable context memories: compose named memory sets, bind them to workspace paths, inject them within a byte budget, and review auto-distilled candidates before they take effect.'
+  zh: '按工作区投放可复用的上下文记忆：用具名记忆集组合条目、绑定到工作区路径、在字节预算内注入，并让人工确认后才生效的自动提炼候选。'
